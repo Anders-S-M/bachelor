@@ -22,6 +22,7 @@ setup(
         'console_scripts': [
         'webcam_pub = bachelor.webcam_pub:main',
         'camera_node = bachelor.camera_node:main',
+        'system_node = bachelor.system_node:main',
         ],
     },
 )
