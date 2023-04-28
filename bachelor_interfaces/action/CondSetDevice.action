@@ -1,0 +1,9 @@
+# Constants
+# Request
+uint8 id
+---
+# Response
+bool check
+---
+# Partial Response
+bool checks
